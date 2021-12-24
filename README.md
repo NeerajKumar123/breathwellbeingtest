@@ -14,3 +14,4 @@
 We should go for Stylesheet module rather inline styles
 Setup folder struture
 handle checks for ios Platform and ......
+need to discard debig.keystore but  for our setup we need it coz our sha is based on that only
